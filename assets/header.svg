@@ -1,0 +1,54 @@
+<svg width="1200" height="390" viewBox="0 0 1200 390" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Zoriko — full-stack product builder</title>
+  <desc id="desc">A neon technical banner with the words Zoriko, full-stack product builder, and status shipping.</desc>
+  <defs>
+    <linearGradient id="bg" x1="38" y1="22" x2="1150" y2="390" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#09090B"/>
+      <stop offset="0.48" stop-color="#111827"/>
+      <stop offset="1" stop-color="#09090B"/>
+    </linearGradient>
+    <linearGradient id="neon" x1="82" y1="102" x2="735" y2="298" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00E5FF"/>
+      <stop offset="0.5" stop-color="#A855F7"/>
+      <stop offset="1" stop-color="#EC4899"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00E5FF" stop-opacity="0"/>
+      <stop offset="0.25" stop-color="#00E5FF"/>
+      <stop offset="0.7" stop-color="#A855F7"/>
+      <stop offset="1" stop-color="#EC4899" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M 36 0 L 0 0 0 36" fill="none" stroke="#A855F7" stroke-opacity="0.10" stroke-width="1"/>
+    </pattern>
+    <filter id="glow" x="-30%" y="-50%" width="160%" height="200%">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feColorMatrix in="blur" type="matrix" values="1 0 0 0 0.25  0 0.4 0 0 0  0 0 1 0 0.4  0 0 0 0.9 0"/>
+      <feMerge>
+        <feMergeNode/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="390" rx="26" fill="url(#bg)"/>
+  <rect x="1" y="1" width="1198" height="388" rx="25" stroke="url(#neon)" stroke-opacity="0.55" stroke-width="2"/>
+  <rect width="1200" height="390" rx="26" fill="url(#grid)"/>
+
+  <circle cx="1100" cy="90" r="140" fill="#7C3AED" fill-opacity="0.10"/>
+  <circle cx="1100" cy="90" r="88" stroke="#00E5FF" stroke-opacity="0.22"/>
+  <circle cx="1100" cy="90" r="52" stroke="#EC4899" stroke-opacity="0.28" stroke-dasharray="7 9"/>
+
+  <text x="72" y="84" fill="#7DD3FC" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="17" letter-spacing="4">HELLO, INTERNET. I BUILD THINGS.</text>
+  <text x="68" y="216" fill="url(#neon)" filter="url(#glow)" font-family="Arial Black, Inter, system-ui, sans-serif" font-size="126" font-weight="900" letter-spacing="-6">ZORIKO</text>
+  <text x="74" y="268" fill="#E5E7EB" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="24" font-weight="700" letter-spacing="6">FULL-STACK PRODUCT BUILDER</text>
+  <text x="75" y="315" fill="#9CA3AF" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="16" letter-spacing="2">IDEA → INTERFACE → SYSTEM → SHIPPED</text>
+
+  <rect x="902" y="234" width="226" height="94" rx="14" fill="#09090B" fill-opacity="0.84" stroke="#A855F7" stroke-opacity="0.6"/>
+  <circle cx="926" cy="259" r="6" fill="#22C55E"/>
+  <text x="942" y="265" fill="#D1FAE5" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13" font-weight="700">STATUS: SHIPPING</text>
+  <text x="922" y="292" fill="#9CA3AF" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12">MODE    PRODUCT</text>
+  <text x="922" y="312" fill="#9CA3AF" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12">UPTIME  CAFFEINATED</text>
+
+  <rect x="52" y="354" width="1096" height="2" rx="1" fill="url(#line)"/>
+</svg>

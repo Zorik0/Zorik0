@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://zorikospace.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-09090B?style=for-the-badge&logo=vercel&logoColor=00E5FF" alt="Portfolio" /></a>
+  <a href="https://zoriko.space"><img src="https://img.shields.io/badge/PORTFOLIO-09090B?style=for-the-badge&logo=vercel&logoColor=00E5FF" alt="Portfolio" /></a>
   <a href="https://touchpdf.space"><img src="https://img.shields.io/badge/LATEST_SHIP-TOUCHPDF-7C3AED?style=for-the-badge&logo=files&logoColor=white" alt="TouchPDF" /></a>
   <img src="https://komarev.com/ghpvc/?username=Zorik0&style=for-the-badge&color=7C3AED&label=PROFILE+PINGS" alt="Profile views" />
 </p>

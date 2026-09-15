@@ -16,7 +16,7 @@ Read more on [zoriko.space](https://zoriko.space), see my [résumé](https://zor
     <td width="50%" valign="top">
       <a href="https://touchpdf.space"><img src="./assets/work/touchpdf.jpg" alt="TouchPDF tool list" width="100%"></a>
       <br><b><a href="https://touchpdf.space">TouchPDF</a></b>
-      <br>35+ PDF tools that run entirely in your browser. Files never leave your device, and there's no sign-up or watermark.
+      <br>35+ PDF tools that run entirely in your browser. Files never leave your device, and there's no sign-up or watermark. <a href="https://github.com/Zorik0/touchpdf">Read the code</a>.
     </td>
   </tr>
   <tr>
@@ -49,9 +49,9 @@ Read more on [zoriko.space](https://zoriko.space), see my [résumé](https://zor
 
 - A nine-app platform for a travel group: staff ERP, hotel property management, a customer booking PWA and the backend they share. I moved it off Firebase onto a self-hosted Linux server.
 - A lead-intelligence pipeline that finds travel agencies likely to need an ERP and ranks them, with evidence for every claim.
-- [Vaolt](https://vaolt.vercel.app), a PWA for roommates to share household costs, budgets and settlements.
+- [Vaolt](https://vaolt.vercel.app), a PWA for roommates to share household costs, budgets and settlements. [Read the code](https://github.com/Zorik0/vaolt).
 - [ZIVO](https://zivopos.vercel.app), billing for Indian retail shops that takes UPI, cash, card and khata.
-- [Project Rocky](https://project-rocky-seven.vercel.app), an AI chat app where you talk to Rocky from *Project Hail Mary*.
+- [Project Rocky](https://project-rocky-seven.vercel.app), an AI chat app where you talk to Rocky from *Project Hail Mary*. [Read the code](https://github.com/Zorik0/project-rocky).
 - Websites for [ContinualServe](https://www.continualserve.com), [Shree Ram Associate](https://www.shreeramassociate.in), [Influenzy](https://www.influenzy.in) and [ProjectSprint](https://projectsprint.store).
 
 ## Tools

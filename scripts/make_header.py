@@ -1,6 +1,6 @@
 """Build the GitHub profile header: Zoriko wordmark + the enquiry-to-invoice trace.
-# Usage: download Poppins (Black, Medium, Regular) from github.com/google/fonts into ./fonts, then
-#   uv run --with uharfbuzz --with fonttools python scripts/make_header.py && mv header.svg assets/
+Usage: download Poppins (Black, Medium, Regular) from github.com/google/fonts into ./fonts, then
+  uv run --with uharfbuzz --with fonttools python scripts/make_header.py && mv header.svg assets/
 
 All text is converted to outlines (Poppins, shaped with HarfBuzz) so the SVG
 renders identically without web fonts, which GitHub's image proxy can't load.
